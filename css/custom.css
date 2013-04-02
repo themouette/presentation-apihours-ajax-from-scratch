@@ -1,0 +1,53 @@
+/* main-title */
+.main-title h1 {}
+.main-title a.author,
+.main-title p.date,
+.main-title p.conference {position:absolute;font-size:36px;}
+.main-title a.author {bottom: 30px; right:30px;}
+.main-title p.conference {bottom: 30px; left:30px;margin:0;}
+.main-title p.date {top: 30px; right:30px; font-size:20px;}
+
+.summary ul {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 2.3em;
+    margin: -150px 0 0 -250px;
+    font-weight: bold;
+}
+
+
+
+.xhr-history ul {
+    position:absolute;
+    top: 50%;
+    font-size: 1.5em;
+    margin-top: -150px;
+}
+.xhr-history ul li {
+    margin-bottom: 1em;
+}
+
+
+
+.promises ul {
+    position:absolute;
+    top: 50%;
+    font-size: 1.5em;
+    margin-top: -150px;
+}
+.promises ul li {
+    margin-bottom: 1em;
+}
+
+
+
+.what-s-next ul {
+    position:absolute;
+    top: 50%;
+    font-size: 1.5em;
+    margin-top: -150px;
+}
+.what-s-next ul li {
+    margin-bottom: 1em;
+}

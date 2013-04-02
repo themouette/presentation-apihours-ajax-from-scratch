@@ -1,0 +1,1 @@
+$(".diagram").sequenceDiagram({theme: 'hand'});
