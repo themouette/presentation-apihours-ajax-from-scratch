@@ -12,7 +12,7 @@
 
 * What is AJAX
 * XMLHttpRequest
-* promise API
+* Promise API
 
 .fx: summary
 
@@ -29,7 +29,7 @@
 
 ---
 
-## What is AJAX ?
+## What is AJAX?
 
 > **A**synchronous **J**ava**S**cript and **X**ML
 
@@ -224,7 +224,7 @@ introduced in `XMLHttpRequest Level 2`, 25 February 2008
 
 ---
 
-## Promise ?
+## Promise?
 
 * [Promises](http://wiki.commonjs.org/wiki/Promises) are CommonJS spec (/A, /B, /C, /D) ;
 * Functional approach for asynchronous ;
@@ -321,7 +321,7 @@ introduced in `XMLHttpRequest Level 2`, 25 February 2008
 
 ---
 
-## What's next ?
+## What's next?
 
 * use [`$.Deferred`](http://api.jquery.com/category/deferred-object/) for all async processes ;
 * [<accronym title="Cross Origin Ressource Sharing">CORS</accronym>](Cross Origin Ressource Sharing) for cross domain requests ;
@@ -332,7 +332,7 @@ introduced in `XMLHttpRequest Level 2`, 25 February 2008
 
 ---
 
-# Questions ?
+# Questions?
 
 ---
 

@@ -6,6 +6,7 @@
 .main-title a.author {bottom: 30px; right:30px;}
 .main-title p.conference {bottom: 30px; left:30px;margin:0;}
 .main-title p.date {top: 30px; right:30px; font-size:20px;}
+a.twitter {position: absolute; bottom: 20px; left: 20px; color: #599; font-weight: bold; font-size: 2em;}
 
 .summary ul {
     position:absolute;
